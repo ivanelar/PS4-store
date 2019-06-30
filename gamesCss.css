@@ -1,0 +1,78 @@
+.txt-heading{padding: 5px 10px;font-size:1.1em;font-weight:bold;color:#999;}
+.btnRemoveAction{color:#D60202;border:0;padding:2px 10px;font-size:0.9em;}
+#btnEmpty{background-color:#D60202;border:0;padding:1px 10px;color:#FFF; font-size:0.8em;font-weight:normal;float:right;text-decoration:none;}
+.btnAddAction{background-color:#00001E;border:0;padding:3px 10px;color:#FFFFFF;margin-left:1px;}
+#shopping-cart {margin-left: 170px; border-top: #4169E1 2px solid;margin-bottom:30px;}
+#shopping-cart .txt-heading{background-color: #4169E1;}
+#shopping-cart table{width:100%;background-color:#F0F0F0;}
+#shopping-cart table td{background-color:#FFFFFF;}
+.cart-item {border-bottom: #79b946 1px dotted;padding: 10px;}
+#product-grid {border-top: #F08426 2px solid;margin-bottom:30px;}
+#product-grid .txt-heading{background-color: #FFD0A6;}
+.product-item {	float:left;	background:#F0F0F0;	margin:15px;	padding:5px;}
+.product-item div{text-align:center;	margin:10px;}
+.product-price {color:#F08426;}
+.product-image {height:100px;background-color:#FFF;}
+
+p .firstPClass{
+float: left; 
+margin: 20px;
+}
+
+p. secondPClass{
+width: 1300px; 
+height: 240px; 
+text-align: justify;
+}
+
+p{
+color: white;
+font-family: 'Open Sans', sans-serif;
+text-shadow: 2px 2px 4px #E5E5E5;
+}
+#image{
+display:block;
+margin-left: 4.5cm;
+margin-right: auto;
+opacity: 0.7;
+}
+#image:hover{
+opacity:1;
+}
+.dropbtn {
+    background-color: #00001E;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: ;
+}
+
+.dropdown {
+    position: absolute;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #00001E;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #990000}
+
+.show {display:block;}

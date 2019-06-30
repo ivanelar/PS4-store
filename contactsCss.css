@@ -1,0 +1,171 @@
+
+	p{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	text-align:center;
+	text-shadow: 2px 2px 4px #E5E5E5;
+	}
+	p1{
+	position:relative;
+	left: 310px;
+	top: -80px;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 2px 2px 4px #E5E5E5;
+	}
+	.face {
+	position:relative;
+	left: 250px;
+	top: 100px;
+    display:block;
+    width:47px;
+    height:48px;
+    overflow:hidden;
+	}
+	#face {
+	position:relative;
+	left: 250px;
+	top: 100px;
+    top:0;
+    left:0;
+	}
+	#face:hover {
+	position:absolute;
+    top:-48px;
+	bottom:-98px;
+    left:0;
+}
+	p2{
+	position:relative;
+	left: 245px;
+	top: -30px;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 2px 2px 4px #E5E5E5;
+	}
+	.link {
+	position:relative;
+	left: 250px;
+	top: 100px;
+    display:block;
+    width:46px;
+    height:48px;
+    overflow:hidden;
+	}
+	#link {
+	position:relative;
+	left: 250px;
+	top: 100px;
+    top:0;
+    left:0;
+	}
+	#link:hover {
+	position:absolute;
+    top:-48px;
+	bottom:-98px;
+    left:0;
+}
+	p3{
+	position:relative;
+	left: 180px;
+	top: 15px;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 2px 2px 4px #E5E5E5;
+	}
+	.twit {
+	position:relative;
+	left: 250px;
+	top: 100px;
+    display:block;
+    width:46px;
+    height:48px;
+    overflow:hidden;
+	}
+	#twit {
+	position:relative;
+	left: 250px;
+	top: 100px;
+    top:0;
+    left:0;
+	}
+	#twit:hover {
+	position:absolute;
+    top:-48px;
+	bottom:-98px;
+    left:0;
+}
+	p4{
+	position:relative;
+	left: 115px;
+	top: 60px;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 2px 2px 4px #E5E5E5;
+	}
+	.you {
+	position:relative;
+	left: 250px;
+	top: 100px;
+    display:block;
+    width:46px;
+    height:48px;
+    overflow:hidden;
+	}
+	#you {
+	position:relative;
+	left: 250px;
+	top: 100px;
+    top:0;
+    left:0;
+	}
+	#you:hover {
+	position:absolute;
+    top:-48px;
+	bottom:-98px;
+    left:0;
+}.dropbtn {
+    background-color: #00001E;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: ;
+}
+
+.dropdown {
+    position: absolute;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #00001E;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #990000}
+
+.show {display:block;}
+	p5{
+	position:relative;
+	left: 0px;
+	top: 150px;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 2px 2px 4px #E5E5E5;
+	}
